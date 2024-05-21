@@ -16,8 +16,6 @@ Dupay(原Depay)是一家英国华人公司推出的虚拟卡。它是一张数�
 ## 注册Dupay
 前往[Dupay官网](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)
 
-或[使用邀请码](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)：YgvuDG
-
 可以用邮箱或手机注册。手机注册多一个内部转账功能。
 
 ![image](https://github.com/speightjuan30/Dupay/assets/169787719/cddaa0cf-3463-45bc-b7d3-cf7ee5d0311e)
@@ -26,6 +24,8 @@ Dupay(原Depay)是一家英国华人公司推出的虚拟卡。它是一张数�
 
 ## 申请Dupay卡
 注册成功后可以选择申请开卡。现有4种卡片：Mastercard、Visa、借记卡和订阅卡。
+
+[使用邀请码](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)：YgvuDG
 
 ![image](https://github.com/speightjuan30/Dupay/assets/169787719/54840b67-7fbd-4210-95fa-200d7ff71d23)
 
